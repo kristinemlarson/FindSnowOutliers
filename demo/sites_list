@@ -1,0 +1,15 @@
+% Demo Site List
+% snr_outliers_main
+% 05/15/2013 Comments get ignored
+% sid lat 	lon 	ht
+p029  38.439186 -107.638030 2456.2
+p041  39.949492 -105.194266 1728.8
+p150  39.292380 -120.033854 2619.1
+	
+ Leading spaces, tabs, and endlines are ignored- This line and the two above do not produce sites in the list
+ Extra information past the number of characters specificed by constants.sid_length are also ignored
+
+p041 % Duplicate site names are inlcuded in the list only once.  If case sensitivity is on, The strings must be exactly the same case
+
+
+bad1 % This is a site that is also in the Bad Sites List so it will not be processed

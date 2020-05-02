@@ -1,0 +1,19 @@
+% Demo Site Change Information
+% snr_outliers_main
+% Antenna, Receiver, Firmware changes 
+% site type(A,R,F) year doy  
+p041 R 2013 51
+p041 F 2009 21
+p041 F 2009 140
+p041 F 2009 147
+p041 F 2009 323
+p041 F 2009 358
+p041 F 2010 118
+p041 F 2012 348
+p041 F 2013 51
+
+p029 F 2010 177
+p029 A 2011 35
+
+p150 F 2010 191
+

@@ -1,0 +1,9 @@
+% Demo Bad Local Days
+% snr_outliers_main
+% [Sid year start_doy end_doy] % doy range must be from 1-366 and start_doy<=end_doy otherwise the entire entry will not be used
+p029 2010 240 250
+p029 2010 252 252   
+p029 2010 251 251
+p029 2010 245 245
+p029 2011 350 367     This row will not be used  367 is out of range
+p029 2010 0 50     This row will not be used 0 is out of range

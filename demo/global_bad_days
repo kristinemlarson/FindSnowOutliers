@@ -1,0 +1,4 @@
+% Demo Bad Global Days
+% snr_outliers_main
+% [year start_doy end_doy] % doy range must be from 1-366 and start_doy<=end_doy otherwise the entire entry will not be used
+2010 250 254 DOD Testing 
